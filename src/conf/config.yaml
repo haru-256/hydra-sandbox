@@ -1,0 +1,4 @@
+defaults:
+  - dataset: v1
+  - method: baseline
+  - _self_ # https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order/
